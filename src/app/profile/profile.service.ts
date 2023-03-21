@@ -187,7 +187,7 @@ export class ProfileService {
   Have good understanding of  Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/1EctUkONtk4HY6-hJbEQCY7W6E9qSkB2e/view?usp=sharing"
+  resumeurl = "https://drive.google.com/file/d/1Sdd-pxcvwoTtkz_aRX41bm8xSYSZ5Od7/view?usp=sharing"
 
   skillsData: any = [
     {
